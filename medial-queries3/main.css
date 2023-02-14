@@ -39,7 +39,7 @@ main div {
   min-height: 40vh;
 }
 
-@media screen and (min-device-width: 600px) {
+@media screen and (min-width: 600px) {
   .container {
     flex-flow: row wrap;
     min-height: 67vh;
